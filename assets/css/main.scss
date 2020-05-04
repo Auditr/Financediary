@@ -1,0 +1,22 @@
+---
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+.masthead__inner-wrap {
+    padding: .5em;
+}
+
+.page__footer footer {
+    padding: 1em 3em;
+    margin: 0;
+}
+
+@media all and (min-width: 80em) {
+    html {
+        font-size: 19px;
+    }
+}

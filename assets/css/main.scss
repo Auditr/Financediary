@@ -15,8 +15,40 @@
     margin: 0;
 }
 
+.greedy-nav a.site-title { 
+    color: #1078c8;
+    font-size: 1.3em;
+}
+
+a { text-decoration: none;  }
+
+.page__content {
+    & li, & dl, & p {
+        font-size: .9em;
+    }
+}
+
 @media all and (min-width: 80em) {
-    html {
-        font-size: 19px;
+    body {
+        margin: 0 auto;
+        width: 1180px;
+        font-size: 18px;
+        line-height: 1.2;
+
+        & .page {
+            margin: 0 auto;
+            width: 700px;
+            padding-right: 0;
+            float: none;
+
+            & .page__title {
+                margin: 1em 0;
+                color: #1078c8;
+            }
+        }
+
+        & .greedy-nav .visible-links a::before {
+            height: 2px;
+        }
     }
 }

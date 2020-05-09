@@ -11,7 +11,3 @@ header:
     - label: "Read More"
       url: "/"
 ---
-
-### Here the content Resides
-
-Lets see what will happen

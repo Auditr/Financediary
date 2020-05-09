@@ -20,3 +20,51 @@ Further, the tax authorities also issued a circular recently detailing the proce
 
 The circular directed employers to enquire their employees to choose between old or new tax regime in the beginning of the year itself. If the employee do not explicitly express his/ her wish to switch to the new regime, the existing regime will be the default option.
 
+Annual Income                   |   Old Tax Rate  | New Tax Rate |
+:-------------------------------|----------------:|-------------:|
+Up to Rs. 2.5 lakhs             |       Nil       |     Nil      |
+Rs. 2.5 lakhs to Rs. 5 lakhs    |       5%        |     5%       |
+Rs. 5 lakhs to Rs. 7.5 lakhs    |       20%       |     10%      |
+Rs. 7.5 lakhs to Rs. 10 lakhs   |       20%       |     15%      |
+Rs. 10 lakhs to Rs. 12.5 lakhs  |       30%       |     20%      |
+Rs. 12.5 lakhs to Rs. 15 lakhs  |       30%       |     25%      |
+
+### Deductions and exemptions to Forgo
+The new tax regime does not allow the taxpayer to avail certain specified deductions. Illustrative list as under:  
+
+(a) Section 10 as follows:  
+
+* Leave travel concession;  
+* House rent allowance;  
+* Special allowance detailed in Rule 2BB (such as children education allowance, hostel allowance, transport allowance, per diem
+allowance, uniform allowance, etc.);  
+* Allowances to MPs/MLAs;  
+* Allowance for clubbing of income of minor;  
+
+(b) Exemption for SEZ unit under section 10AA;  
+
+(c) Standard deduction, deduction for entertainment allowance and employment/professional tax as contained in Section 16;  
+
+(d) Interest under section 24 in respect of self-occupied or vacant property (loss under the head IFHP for rented house shall not be allowed to be set off under any other head an and would be allowed to be c/f as per extant law);  
+
+(e) Additional depreciation under section 32(1)(iia);  
+
+(f) Deductions under sections 32AD, 33AB and 33ABA;  
+
+(g) Various deductions for donation or expenditure on scientific research contained in sub-clause (ii) or sub-clause (iia) or sub-clause (iii), of sub-section (1) or sub-section (2AA) of section 35;  
+
+(h) Deduction under section 35AD or section 35CCC;  
+
+(i) Deduction from family pension under clause (iia) of section 57;  
+
+(j) Any deduction under chapter VI-A (like section 80C, 80CCC, 80CCD, 80D, 80DD, 80DDB, 80E, 80EE, 80EEA, 80EEB, 80G, 80GG, 80GGA,
+80GGC, 80IA, 80-IAB, 80-IAC, 80-IB, 80-IBA, etc.).  
+However, deduction under sub-section (2) of section 80CCD (employer contribution on account of employee in notified pension scheme) and
+section 80JJAA (for new employment) can be claimed.  
+
+Further, the new tax regime would allow only 50 tax exemptions and few of them are Standard deduction on rent, VRS proceeds, Agricultural
+income, Retrenchment compensation, Income from life insurance, Leave encashment on retirement.  
+
+
+### Conclusion
+The new tax regime may be offering lower tax rates and lesser complications but one needs to do a comparative as the new tax regime doesn’t seem to promise as one would end up paying a higher tax amount after forgoing deductions and exemptions in few cases. Hence, the decision and step to be taken remains with the tax payer. 

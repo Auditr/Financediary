@@ -6,6 +6,11 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+.archive__item {
+    padding: .5em;
+    background-color: #dfdfdf;
+}
+
 .masthead__inner-wrap {
     padding: .5em;
 }

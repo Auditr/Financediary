@@ -2,7 +2,7 @@
 layout: single
 title:  "Financial Reporting issues due to COVID-19 outbreak"
 date:   2020-05-10 20:48:04 +0530
-categories: Financial Reporting 
+categories: FinancialReporting 
 ---
 
 Companies in India are required to evaluate the impact and disruption caused due to outbreak of Covid-19 on their business through reporting on such impact by Covid-19 in their annual report under few accounting standards.

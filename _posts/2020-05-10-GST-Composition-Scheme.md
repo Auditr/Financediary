@@ -6,11 +6,14 @@ categories: GST(Goods&ServiceTax)
 ---
 Any business which has a turnover of less than Rs. 1.5 crore or 75 lakhs for the specified states can opt for this scheme but on any given day, if turnover crosses the above-mentioned limit, then he becomes ineligible and has to take registration under the regular scheme. However threshold limit for compulsory GST registration is  Rs 40 Lakhs or Rs 20 Lakhs for the specified states
 
-### However certain business are specifically exempted to opt for registration
+### However certain business are specifically not allowed to opt for Composition scheme
 
-* Intea state Trade
+* Supplier of services other than Restaurent services
+* Casual taxable person
+* Non-Resident taxable person
+* Inter state trade
 * Supplying goods through E-Commerce Operator 
-* Manufacturer of Ice Creams ,Tobacco Products, Tobacco substitutes and Pan  Masala
+* Manufacturer of Ice Creams ,Tobacco products, Tobacco substitutes and Pan  Masala
 * Exempted goods suppliers  
 
 ### Composition scheme dealers required to pay GST on following Turnover Basis

@@ -2,7 +2,7 @@
 layout: single
 title:  "Brief on Old vs New Income Tax regime"
 date:   2020-04-26 16:48:04 +0530
-categories: Income Tax
+categories: IncomeTax
 ---
 Finance Minister, Nirmala Sitharaman has proposed a new set of (optional) tax slabs that has lower tax rates compared to the existing rates.
 

@@ -13,20 +13,20 @@ The covid-19 pandemic has widely impacted most of the countries and will undoubt
 
 | Compliance 	| Extended Due dates and Remarks |
 |--------|----------|
-|                        **Direct Tax**              |
+|                       ``` Direct Tax ```             |
 | TDS Payment for March |	30th April 2020 (No extension) , But interest on delayed payment is reduced to 0.75% |
 | TDS return for March	| 30th June 2020 |
 | TCS return due date for March	| 30th June 2020 |
 | Advance Tax for F.Y 2019-20 |	As the time is lapsed , however the interest under 234B is reduced to 0.75% |
 | Filing of Income Tax return	| No Extensions as of Now. |
-|                      **Indirect Tax**               |
+|                     ``` Indirect Tax ```               |
 | GST Payment for March/April/May	| 30th June 2020 |
 | GSTR 3B for Mar/Apr/May (Turnover < 5 Crore)	| 30th June 2020 |
 | GSTR 3B for Mar/Apr/May (Turnover >= 5 Crore)	| 30th June 2020 (with reduced interest rate on delayed filing @ 9%) |
 | CMP-08 for Q4 (Composition return)	| 30th June 2020 |
 | Opting for Composition Scheme	| 30th June 2020 |
 | Payment under Sabka Vikas scheme |	30th June 2020 |
-|                      **Other Statutory Compliances & SEBI Complaices**               |
+|                     ``` Other Statutory Compliances & SEBI Complaices ```              |
 | Provident Fund Payment for March	| 15th May 2020  |
 | ESI Payment for March |	15th May 2020  |
 | Professional Tax Payment for H2 |	State Specific |
@@ -34,7 +34,7 @@ The covid-19 pandemic has widely impacted most of the countries and will undoubt
 | Financial Results – Annually	| 30th June 2020  |
 | Financial Results - Quarterly (Q4)	| 30th June 2020  |
 | All other compliances under SEBI(LODR)	| 30th June 2020  |
-|                       **Companies Act**                   |
+|                       ``` Companies Act ```                 |
 | CARO (2020)	Applicability | from F.Y 2020-21 |
 | Form 20A (Bizz Commencement certificate)	| To be filed within 180 days from Incorp	Extended to 360 days from incorp date |
 | Any Document, return, statement compliance	| Moratorium Period Apr'20 - Sept'20  |

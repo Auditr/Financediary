@@ -7,8 +7,6 @@
 @import "minimal-mistakes"; // main partials
 
 #main {
-    width: 1080px;
-
     & .list__item {
         margin-top: 1em;
         box-shadow: 0 1px 5px 1px lightgrey;
@@ -17,12 +15,6 @@
             margin-top: .5em;
         }
     }
-}
-
-.archive {
-    margin: 0 auto;
-    width: 1080px;
-    padding: 0;   
 }
 
 .archive__item {
@@ -56,6 +48,13 @@ a { text-decoration: none;  }
     body {
         font-size: 18px;
         line-height: 1.2;
+
+        .archive {
+            margin: 0 auto;
+            width: 75%;
+            padding: 0;
+            float: none;
+        }
 
         & .page {
             margin: 0 auto;

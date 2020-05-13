@@ -104,30 +104,54 @@ a { text-decoration: none;  }
     flex-wrap: wrap;
     justify-content: space-between;
 
+    @media all and (max-width: 48em) {
+        justify-content: space-around;
+
+        & > .recent__post-card {
+            width: 95%;        
+        }
+    }
+
     & > .recent__post-card {
         width: 30%;
         margin: .5em 0;
         border-radius: 3px;
+        position: relative;
         overflow: hidden;
+        text-decoration: none;
         background-color: white;
         box-shadow: 0 1px 5px 1px lightgray;
 
-        @media screen and (max-width: 80em) {
+        @media all and (max-width: 80em) {
             width: 48%;
         }
 
-        h4, .excerpt {
+        .post-title, .excerpt {
             margin: 0;
             padding: .5em;
             line-height: 1.7;
         }
 
-        h4 {
+        a.post-title {
             color: white;
+            display: block;
             overflow: hidden;
-            background: #747474;
+            background: #1078c8;
             white-space: nowrap;
             text-overflow: ellipsis;
+            
+            &::before {
+                content: '';
+                position: absolute;
+                left: 0;
+                top: 0;
+                bottom: 0;
+                right: 0;
+            }
+
+            &:hover  {
+                text-decoration: none !important;
+            }
         }
     }
 }

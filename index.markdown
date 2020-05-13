@@ -4,10 +4,15 @@
 
 layout: splash
 title: ''
+excerpt: "One Stop for financial information including taxation, accounting and a lot more. Please check our [`blog`](/blog) for latest articles"
 header:
   overlay_image: /assets/images/home-page-header.jpg
-  caption: "Finance Diary"
-  actions:
-    - label: "Read More"
-      url: "/"
+  overlay_filter: 0.5
 ---
+
+<h1>Recent Posts</h1>
+<div class="recent__posts">
+{% for post in site.posts limit:3 %}
+  {% include card.html post=post %}
+{% endfor %}
+</div>

@@ -2,7 +2,7 @@
 layout: single
 title:  "Dooms day & Extended Timelines for Various Compliances"
 date:   2020-05-11 14:44:04 +0530
-categories: General Topics
+categories: GeneralTopics
 ---
 
 ### Dooms day & Extended Timelines for Various Compliances

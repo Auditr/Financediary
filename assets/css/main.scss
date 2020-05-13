@@ -106,14 +106,10 @@ a { text-decoration: none;  }
 
     @media all and (max-width: 48em) {
         justify-content: space-around;
-
-        & > .recent__post-card {
-            width: 95%;        
-        }
     }
 
     & > .recent__post-card {
-        width: 30%;
+        width: 98%;
         margin: .5em 0;
         border-radius: 3px;
         position: relative;
@@ -122,8 +118,12 @@ a { text-decoration: none;  }
         background-color: white;
         box-shadow: 0 1px 5px 1px lightgray;
 
-        @media all and (max-width: 80em) {
+        @media all and (min-width: 48em) {
             width: 48%;
+        }
+
+        @media all and (min-width: 80em) {
+            width: 30%;
         }
 
         .post-title, .excerpt {

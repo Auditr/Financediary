@@ -9,7 +9,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 body {
-    font-family: "Roboto",sans-serif;
+    font: 16px/1.8em "Roboto",sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6, .btn {
@@ -39,6 +39,14 @@ a > code {
 .archive__item {
     padding: 1em;
     background-color: white;
+
+    & .archive__item-title a {
+        color: #1078c8;
+    }
+
+    & .archive__item-excerpt {
+        font-size: .92em;
+    }
 }
 
 .masthead__inner-wrap {
@@ -61,20 +69,11 @@ a > code {
 
 a { text-decoration: none;  }
 
-.page__content {
-    & li, & dl, & p {
-        font-size: .9em;
-    }
-}
-
 @media all and (min-width: 80em) {
     body {
-        font-size: 16px;
-        line-height: 1.2;
-
         .archive {
             margin: 0 auto;
-            width: 75%;
+            width: 63%;
             padding: 0;
             float: none;
         }
@@ -128,8 +127,7 @@ a { text-decoration: none;  }
 
         .post-title, .excerpt {
             margin: 0;
-            padding: .5em;
-            line-height: 1.7;
+            padding: 1em;
         }
 
         a.post-title {

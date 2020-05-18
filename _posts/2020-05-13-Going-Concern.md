@@ -9,6 +9,7 @@ categories: Audit
 
 The COVID-19 pandemic is likely to have significant implications for global economies and markets for certain industries such as restaurants, entertainment, hospitality, retail and travel especially aviation. The downturn will result in a significant increase in both the volume and severity of events and conditions that may in some instances cast doubt on an entity’s ability to continue as a going concern. So this article highlights one of the key assumptions of an Organization i.e Going Concern. This assumption has become so significant and important for both Auditors and Corporate Boards not only in India but across globe in current environment due to outbreak of COVID-19.
 
+![alt text](https://github.com/Auditr/Financediary/blob/master/Going-Concern-Concept-2.jpg "Going Concern Test")
 
 ### What is going concern concept?
 

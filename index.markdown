@@ -6,8 +6,8 @@ layout: splash
 title: ''
 excerpt: "One Stop for financial information including taxation, accounting and a lot more. Please check our [`blog`](/blog) for latest articles"
 header:
-  overlay_image: /assets/images/home-page-header.jpg
-  overlay_filter: 0.5
+  overlay_image: /assets/images/home-page-header.png
+  overlay_filter: 0
 ---
 
 <h1>Recent Posts</h1>

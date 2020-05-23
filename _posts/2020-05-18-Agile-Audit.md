@@ -3,6 +3,7 @@ layout: single
 title:  "Agile"
 date:   2020-05-17 20:31:04 +0530
 categories: Audit
+main_image: "images/agile_audit.png"
 ---
 
 ### Agile Internal Audit
@@ -14,6 +15,8 @@ The Google meaning of Agile is “Able to move Quickly and easily”.
 **Back ground of Agile methodology**
 
 The word agile is migrated from the field of Information Technology to finance field. In IT Industry Agile methodology is used for developing a software or project management. Agile methodology is highly recommended when speed of change in system or business environment is unprecedented, adoption of new technologies such as automation and machine learning create new risks. 
+
+![Agile Audit](/assets/images/agile_audit.png)
 
 **Agile Methodology**
 

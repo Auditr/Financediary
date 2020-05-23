@@ -1,6 +1,10 @@
 <article class="recent__post-card">
     <a class="post-title" href="{{include.post.url}}">{{include.post.title}}</a>
     <div class="excerpt">
-        {{include.post.excerpt}}
+        {% if include.post.main_image %}
+        <img src="assets/{{include.post.main_image}}" alt="{{include.post.title}}" />
+        {% else %}
+            {{include.post.excerpt}}
+        {% endif %}
     </div>
 </article>

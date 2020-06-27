@@ -7,7 +7,7 @@ main_image: "images/Change.jpg"
 ---
 A saying which most of us know, “Change is inevitable and innovation is no different”. If you resist to change, you will be ignored particularly when you are in business. We are seeing many companies which are unable to survive in the current world which were once everyone’s favorite. There could be multiple reasons for a business to fail. Here a list of 5 Corporations that failed to innovate.
 
-![Change](/assets/images/Change.png)
+![Change](/assets/images/Change.jpg)
 
 ### 1. Kodak:  
 
@@ -44,6 +44,8 @@ And there comes Netflix into the market. While Netflix was shipping out DVD’s 
 The failure of Blockbuster is a suicide. In the starting days of Netflix which initially approached Blockbuster with a proposal that Blockbuster to advertise  their brand in the stores while Netflix would run Blockbuster online. The idea got turned down by Antioco because he thought it was ridiculous and Netflix taking advantage of the brand Blockbuster. 
 
 ### Source: VALUER+, Investopedia.
+
+
 
 
 ### Compiled by

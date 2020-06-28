@@ -4,6 +4,7 @@ title:  "A simple example of Block Chain Tech"
 date:   2020-06-27 17:15:04 +0530
 categories: GeneralTopics
 main_image: "images/Block_Chain.jpg"
+comments: true
 ---
 ![Block_Chain](/assets/images/Block_Chain.jpg)
 

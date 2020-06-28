@@ -7,5 +7,9 @@ main:
     url: /categories
   - title: Downloads
     url: /downloads
+  - title: Do you Know?
+    url: /do you know
+  - title: Job Notifications
+    url: /job notifications
   - title: About
     url: /about
